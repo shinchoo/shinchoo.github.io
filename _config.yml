@@ -119,9 +119,9 @@ author:
   location         : "Detroit, Michigan"
   email            : "shinchoo1994@gmail.com"
   links:
-    - label: "Email"
+    - label: "Email: shinchoo1994@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: "Email: shinchoo1994@gmail.com"
+      # url: "Email: shinchoo1994@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
