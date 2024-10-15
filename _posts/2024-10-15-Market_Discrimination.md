@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Causal Inference: t-test"
+title:  "Causal Inference 1: t-test"
 subtitle: "Market Discrimination"
 ---
 ## Labor Market Discrimination: Analyzing Racial Discrimination in Hiring Practices
