@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shin H. Choo"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : # "Shin H. Choo"
+  avatar           : path of avatar image, e.g. "C:/Users/shincho/OneDrive - KLA Corporation\Desktop/Portfolio/KakaoTalk_20240813_143057247_20.png"
   bio              : "Hi all, my name is Shin Choo :) Welcome to my place"
-  location         : "Michigan"
-  email            :
+  location         : "Detroit, Michigan"
+  email            : "shinchoo1994@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
