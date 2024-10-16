@@ -1,3 +1,9 @@
+---
+layout: single
+title:  "Causal Inference 1: t-test"
+subtitle: "Market Discrimination"
+---
+
 ## Nike Vaporfly Shoes Analysis
 
 ### Resources
