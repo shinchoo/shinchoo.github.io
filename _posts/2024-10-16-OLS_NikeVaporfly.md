@@ -472,3 +472,4 @@ print(ols_robust_with_age.summary())
     - **R=squared values**: Adding age into the model increases the R-sqaured value from 0.304 to 0.464, indicating that the model with age explains more variability in ln_race_time.
 
 Overall, these results highlight the importance of considering confounding factors, such as age, in the regression model. The adjuisted effect of Vaporfly shoes, after including age, still indicates a statistically significant reduction in race times, thereby supporting the claims that Vaporfly shoes are beneficial for marathon runners.
+
