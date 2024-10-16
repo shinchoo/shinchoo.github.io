@@ -473,3 +473,4 @@ print(ols_robust_with_age.summary())
 
 Overall, these results highlight the importance of considering confounding factors, such as age, in the regression model. The adjuisted effect of Vaporfly shoes, after including age, still indicates a statistically significant reduction in race times, thereby supporting the claims that Vaporfly shoes are beneficial for marathon runners.
 
+![Nike Vaporfly](https://github.com/user-attachments/assets/e483b555-a5df-4610-aa55-75c1cbdca91f)
