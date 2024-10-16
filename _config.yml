@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : # "Shin H. Choo"
-  avatar           : path of avatar image, e.g. "C:/Users/shincho/OneDrive - KLA Corporation\Desktop/Portfolio/KakaoTalk_20240813_143057247_20.png"
+  avatar           : # path of avatar image, e.g. "C:/Users/shincho/OneDrive - KLA Corporation\Desktop/Portfolio/KakaoTalk_20240813_143057247_20.png"
   bio              : "Hi all, my name is Shin Choo :) Welcome to my place"
   location         : "Detroit, Michigan"
   email            : "shinchoo1994@gmail.com"
