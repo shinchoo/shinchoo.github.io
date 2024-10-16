@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : # "Shin H. Choo"
-  avatar           : "C:/Users/shincho/OneDrive - KLA Corporation/Desktop/Photos/KakaoTalk_20240815_021638698.jpg"
+  avatar           : "/assets/KakaoTalk_20240815_021638698.jpg"
   bio              : "Welcome to my place"
   location         : "Detroit, Michigan"
   email            : "shinchoo1994@gmail.com"
