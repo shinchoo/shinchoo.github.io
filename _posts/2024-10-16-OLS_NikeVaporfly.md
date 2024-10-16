@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Causal Inference 2: t-test"
+title:  "Causal Inference 2: OLS"
 subtitle: "Market Discrimination"
 ---
 
