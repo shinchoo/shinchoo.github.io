@@ -18,10 +18,10 @@ minimal_mistakes_skin    : "air" #"air" "default", "aqua", "contrast", "dark", "
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Shin's Data Playground"
-title_separator          : "-"
-subtitle                 : "Statistics to Data Science Projects"
+title_separator          : "|"
+subtitle                 : "Just one more time"
 name                     : &name "Shin H. Choo"
-description              : "Shin's code playground"
+description              : "Statistics to Data Science Projects"
 url                      : "https://shinchoo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : # "Shin H. Choo"
+  name             : "Shin H. Choo"
   avatar           : "/assets/KakaoTalk_20240815_021638698.jpg"
   bio              : "Welcome to my place"
   location         : "Detroit, Michigan"
