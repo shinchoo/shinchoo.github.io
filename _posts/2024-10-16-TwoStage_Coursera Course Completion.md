@@ -1,3 +1,9 @@
+---
+layout: single
+title:  "Causal Inference 3: Two-Stage Least Squares regression"
+subtitle: "Market Discrimination"
+---
+
 ## Investigating the Impact of Bingeing on Course Completion of Coursera
 
 ### Resources
@@ -156,6 +162,8 @@ print(binge_coeff2)
 
 ### Part 2:Instrumental Variable Analysis
 To address potential self-selection bias (learners who binge might also be inherently more motivated to complete the course), we conduct an instrumental Variable (IV) analysis using the randomized encouragement trial. In this trial, learners were randomly assigned to receive a motivational message (message)
+
+![image](https://github.com/user-attachments/assets/adb5282d-1015-44f1-8006-a9506fdcf88c)
 
 ### 1. Exclusion Restriction Explanation
 In this context, the exclusion restriction means that the treatment (receiving a message) should only affect the outcome (course completion) through the endogenous variable (binge behavior) and not directly
@@ -332,3 +340,5 @@ The summary indicates that bingeing behavior, when instrumented by the encourage
 
 ### Conclusion
 Our analysis highlights the positive impact of bingeing on course completion for Coursera learners. By leveraging a randomized encouragement trial and statistical methods, we mitigated biases and revealed robust findings. This is valuable for Online lecturers when designing interventions that boost learner engagement and success on Coursera
+
+![image](https://github.com/user-attachments/assets/24a50ee5-c8d8-4e77-968c-dadf94d63dbb)
