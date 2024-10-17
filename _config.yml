@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "air" #"air" "default", "aqua", "contrast", "dark", "
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Shin's Data Playground"
+title                    : "Shin's Data Court"
 title_separator          : "|"
 subtitle                 : "Just one more time"
 name                     : &name "Shin H. Choo"
