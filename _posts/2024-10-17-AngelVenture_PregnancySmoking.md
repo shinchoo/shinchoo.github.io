@@ -112,9 +112,10 @@ plt.title('Scatter plot of DAU_MAU Ratio vs. Vote')
 plt.show()
 ```
 
+![output_3_0](https://github.com/user-attachments/assets/959a9c51-eeea-48d0-ba8d-1c20149faf33)
 
     
-![png](output_3_0.png)
+
     
 
 
@@ -240,7 +241,8 @@ plt.show()
 
 
     
-![png](output_9_0.png)
+![output_9_0](https://github.com/user-attachments/assets/03b85565-558e-450e-8982-328a7b211f41)
+
     
 
 
@@ -490,9 +492,8 @@ plt.title('Pre treatment Smoking Rates in Michigan and Iowa')
 plt.show()
 ```
 
+![output_21_0](https://github.com/user-attachments/assets/3aff8c73-0059-4319-bf67-2b0be7ac845d)
 
-    
-![png](output_21_0.png)
     
 
 
@@ -635,3 +636,5 @@ interact_coeff
 
 
 - The coefficient -0.031 means that the cigarette tax increase in Michigan results in a 3.1 percentage point reduction in smoking rates among pregnant women
+
+![image](https://github.com/user-attachments/assets/73e9e717-9ac4-422b-8276-dadc0c7d2e4a)
