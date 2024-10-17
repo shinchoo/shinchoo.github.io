@@ -1,7 +1,6 @@
 ---
 layout: single
 title:  "Causal Inference 3: Two-Stage Least Squares regression"
-subtitle: "Market Discrimination"
 ---
 
 ## Investigating the Impact of Bingeing on Course Completion of Coursera
