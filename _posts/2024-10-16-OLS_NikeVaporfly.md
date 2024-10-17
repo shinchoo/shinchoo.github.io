@@ -1,7 +1,6 @@
 ---
 layout: single
 title:  "Causal Inference 2: OLS"
-subtitle: "Market Discrimination"
 ---
 
 ## Nike Vaporfly Shoes Analysis
