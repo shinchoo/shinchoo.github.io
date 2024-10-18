@@ -2,6 +2,7 @@
 layout: single
 title:  "Angel Investor Impact on Saas Ventures & Smoking Rates in Pregnancy with Higher Cigarette Taxes"
 subtitle: "Causal Inference 4: Difference in Differences"
+categories: Difference-in-Differences
 ---
 
 ## Analysis of Angel Investor Impact on SaaS Ventures and Smoking Rates in Pregnancy with Higher Cigarette Taxes
