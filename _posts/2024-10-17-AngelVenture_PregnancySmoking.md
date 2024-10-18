@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Angel Investor Impact on Saas Ventures & Smoking Rates in Pregnancy with Higher Cigarette Taxes"
+title:  "Angel Investor Impact & Smoking Rates in Pregnancy"
 subtitle: "Causal Inference 4: Difference in Differences"
 categories: python
 tag: [Causal Inference, Difference-in-Differences]
