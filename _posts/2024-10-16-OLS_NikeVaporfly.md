@@ -6,7 +6,6 @@ categories: python
 tag: [Causal Inference, OLS]
 toc: true
 ---
-
 ## Nike Vaporfly Shoes Analysis
 
 ### Resources
