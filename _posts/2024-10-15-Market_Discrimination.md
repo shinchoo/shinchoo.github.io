@@ -6,7 +6,7 @@ categories: python
 tag: [Causal Inference, t-test]
 toc: true
 ---
-# Labor Market Discrimination: Analyzing Racial Discrimination in Hiring Practices
+## Labor Market Discrimination: Analyzing Racial Discrimination in Hiring Practices
 
 ### Resources
 - [Bertrand and Mullainathan, 2004](https://www.aeaweb.org/articles?id=10.1257/0002828042002561)
