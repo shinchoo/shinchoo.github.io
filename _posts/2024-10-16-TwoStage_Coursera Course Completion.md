@@ -7,7 +7,7 @@ tag: [Causal Inference, Two-Stage Least Squares regression]
 toc: true
 ---
 
-## Investigating the Impact of Bingeing on Course Completion of Coursera
+# Investigating the Impact of Bingeing on Course Completion of Coursera
 
 ### Resources
 - [Instrumental Variable & Randomized Encouragement Trials: Driving Engagement of Leaners](https://medium.com/coursera-engineering/instrumental-variables-randomized-encouragement-trials-driving-engagement-of-learners-621215e9e3f1)
@@ -15,7 +15,7 @@ toc: true
 ### Background
 Reseachers in Coursera are interested in determing whether certain learning behaviors, such as bingeing, can increase the likelihood of course completion. Bingeing is defined here as completing and starting consecutive weeks of a course on the same day. By using various regression techniques and statistical methods, this project aims to draw conclusions on the impact of bingeing on course completion rates
 
-### Part 1:Linear Regression Analysis
+## Part 1:Linear Regression Analysis
 
 ### Data
 The dataset contains the following variables for 49,808 learners on Coursera:
@@ -163,7 +163,7 @@ print(binge_coeff2)
 
 - **Result**: The coefficient for binge is 0.3172. With additional controls, the coefficient for binge decreases to 31.72%, yet remains significant. This reduction suggests that some of the initial effect observed may be explained by other factors, such as whether a learner paid for the course or how far they've progressed.
 
-### Part 2:Instrumental Variable Analysis
+## Part 2:Instrumental Variable Analysis
 To address potential self-selection bias (learners who binge might also be inherently more motivated to complete the course), we conduct an instrumental Variable (IV) analysis using the randomized encouragement trial. In this trial, learners were randomly assigned to receive a motivational message (message)
 
 ![image](https://github.com/user-attachments/assets/adb5282d-1015-44f1-8006-a9506fdcf88c)
