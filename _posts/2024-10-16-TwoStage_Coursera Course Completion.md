@@ -6,7 +6,6 @@ categories: python
 tag: [Causal Inference, Two-Stage Least Squares regression]
 toc: true
 ---
-
 ## Investigating the Impact of Bingeing on Course Completion of Coursera
 
 ### Resources
