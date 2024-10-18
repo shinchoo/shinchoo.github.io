@@ -3,6 +3,7 @@ layout: single
 title:  "Labor Market Discrimination"
 subtitle: "Causal Inference 1: t-test"
 categories: t-test
+tag: python
 ---
 ## Labor Market Discrimination: Analyzing Racial Discrimination in Hiring Practices
 
