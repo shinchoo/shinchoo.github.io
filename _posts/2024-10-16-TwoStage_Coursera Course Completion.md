@@ -3,7 +3,7 @@ layout: single
 title:  "Coursera Course Completion Analysis"
 subtitle: "Causal Inference 3: Two-Stage Least Squares regression"
 categories: python
-tag: Two-Stage Least Squares regression
+tag: [Causal Inference, Two-Stage Least Squares regression]
 ---
 
 ## Investigating the Impact of Bingeing on Course Completion of Coursera
