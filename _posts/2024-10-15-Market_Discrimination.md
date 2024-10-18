@@ -6,7 +6,7 @@ categories: python
 tag: [Causal Inference, t-test]
 toc: true
 ---
-## Labor Market Discrimination: Analyzing Racial Discrimination in Hiring Practices
+# Labor Market Discrimination: Analyzing Racial Discrimination in Hiring Practices
 
 ### Resources
 - [Bertrand and Mullainathan, 2004](https://www.aeaweb.org/articles?id=10.1257/0002828042002561)
@@ -14,7 +14,7 @@ toc: true
 ### Background
 In this project, we explore potential racial discrimination against African-Americans in the labor market, utilizing two distinct datasets: one observational (survey data) and one experimental. This study is inspired by research conducted by Marianne Bertrand and Sendhil Mullainathan, who sent fictitiouis resumes in response to job adverts in Boston and Chicago to analyze callback rates based on the racial connotation of the names of these resumes
 
-### Part 1: Observational Analysis
+## Part 1: Observational Analysis
 
 ### Data
 The survey dataset contains information about 10,593 individuals and four key variables:
