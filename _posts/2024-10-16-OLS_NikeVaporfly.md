@@ -7,7 +7,7 @@ tag: [Causal Inference, OLS]
 toc: true
 ---
 
-# Nike Vaporfly Shoes Analysis
+## Nike Vaporfly Shoes Analysis
 
 ### Resources
 - ["Nike says its $250 running shoes will make you run much faster. What if that's actually true?"](https://www.nytimes.com/interactive/2018/07/18/upshot/nike-vaporfly-shoe-strava.html)
