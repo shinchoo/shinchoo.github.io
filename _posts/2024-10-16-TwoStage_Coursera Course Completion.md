@@ -7,7 +7,7 @@ tag: [Causal Inference, Two-Stage Least Squares regression]
 toc: true
 ---
 
-# Investigating the Impact of Bingeing on Course Completion of Coursera
+## Investigating the Impact of Bingeing on Course Completion of Coursera
 
 ### Resources
 - [Instrumental Variable & Randomized Encouragement Trials: Driving Engagement of Leaners](https://medium.com/coursera-engineering/instrumental-variables-randomized-encouragement-trials-driving-engagement-of-learners-621215e9e3f1)
