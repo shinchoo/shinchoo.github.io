@@ -7,9 +7,9 @@ tag: [Causal Inference, Difference-in-Differences]
 toc: true
 ---
 
-## Analysis of Angel Investor Impact on SaaS Ventures and Smoking Rates in Pregnancy with Higher Cigarette Taxes
+# Analysis of Angel Investor Impact on SaaS Ventures and Smoking Rates in Pregnancy with Higher Cigarette Taxes
 
-### Part 1:Impact of Angel Investor Support SaaS Ventures
+## Part 1:Impact of Angel Investor Support SaaS Ventures
 
 ### Resources
 - [Kerr and Learner, Review of Financial Studies 2014](https://www.jstor.org/stable/24464820)
@@ -395,7 +395,7 @@ d_coeff3
 
 The coefficient 0.2488 is very close to the previous estimate of 0.2474, suggesting that our results are robust. Ventures that is receiving angel group support have a revenue growth rate that is, on average, 24.88% higher when considering votes close to the cutoff
 
-### Part 2: Effect of Cigarette Taxes on Smoking Rates During Pregnancy
+## Part 2: Effect of Cigarette Taxes on Smoking Rates During Pregnancy
 
 ### Background
 The US Surgeon General estimates that smoking during pregnancy doubles the chance of low birth weight in babies. To reduce smoking rates during pregnancy, higher cigarette taxes are suggested. On May 1, 1994, Michigan raised the tax from 25 to 75 cents per pack.
