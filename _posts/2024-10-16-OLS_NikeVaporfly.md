@@ -2,8 +2,8 @@
 layout: single
 title:  "Nike Vaporfly Shoes"
 subtitle: "Causal Inference 2: OLS"
-categories: OLS
-tag: python
+categories: python
+tag: OLS
 ---
 
 ## Nike Vaporfly Shoes Analysis
