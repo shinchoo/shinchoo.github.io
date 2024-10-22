@@ -396,7 +396,8 @@ del fig, ax
 
 
     
-![png](output_3_1.png)
+![output_3_1](https://github.com/user-attachments/assets/3c851702-d870-4797-9ad1-34f3a0bbfab9)
+
     
 
 
@@ -441,7 +442,8 @@ plt.show()
 
 
     
-![png](output_5_1.png)
+![output_5_1](https://github.com/user-attachments/assets/e3582c80-7190-40bb-bd32-6436fe64c749)
+
     
 
 
@@ -486,7 +488,8 @@ plt.show()
 
 
     
-![png](output_7_1.png)
+![output_7_1](https://github.com/user-attachments/assets/a2c3bafe-a80b-4e10-8cbb-c709d2c2291a)
+
     
 
 
@@ -532,7 +535,8 @@ plt.show()
 
 
     
-![png](output_9_1.png)
+![output_9_1](https://github.com/user-attachments/assets/f01a143d-8515-416d-b604-3260c1fb3c83)
+
     
 
 
@@ -582,7 +586,8 @@ plt.show()
 
 
     
-![png](output_11_1.png)
+![output_11_1](https://github.com/user-attachments/assets/614d00c7-dcca-48f8-96ce-ce7fec78eb77)
+
     
 
 
@@ -618,7 +623,8 @@ plt.show()
 
 
     
-![png](output_13_1.png)
+![output_13_1](https://github.com/user-attachments/assets/2931bf9d-4e5c-41d6-97b3-3ddee22ef16a)
+
     
 
 
@@ -653,7 +659,8 @@ plt.show()
 
 
     
-![png](output_15_1.png)
+![output_15_1](https://github.com/user-attachments/assets/ce2c8d50-1883-4dd0-b36b-98bdceb13e44)
+
     
 
 
@@ -1015,3 +1022,7 @@ np.sqrt(calc_dtw_cost(sea_decomp(df)))
 **Summary of Observations**
 - Similar to Euclidean findings, India and South Africa have a low DTW cost (4477.393461), indicating highly similar seasonal patterns
 - Again, Russia and Brazil exhibit high DTW costs with other countries, reflecting greater dissimilarity
+
+Vaccine shot - First Day vs. Second Day
+![image](https://github.com/user-attachments/assets/8c4f15e3-e9ed-4474-94e4-22700c77272a)
+
