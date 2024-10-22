@@ -9,7 +9,7 @@ toc: true
 
 ## 2024 Analyzing Daily New COVID-19 Cases
 
-### Part 1: Global COVID Cases
+## Part 1: Global COVID Cases
 
 ### Resources
 - [Johns Hopkins University CSSE COVID-19](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
@@ -603,7 +603,7 @@ plt.show()
 **Interpretation**
 - The EMA emphasizes more recent observations, making it sensitive to short-term changes. This can be useful for identifying emerging trends or shifts
 
-### Part 2: Top 5 Country COVID Cases
+## Part 2: Top 5 Country COVID Cases
 
 ### 5. Data Analysis for Top 5 Countries
 We load and preprocess the data to extract daily new cases for the top 5 countries with the most cumulative cases as of August 21, 2020
