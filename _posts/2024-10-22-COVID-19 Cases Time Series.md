@@ -778,7 +778,7 @@ The Euclidean Distance matrix provides insights into the similarity between seas
 - India and South Africa have the smallest Euclidean Distance (4490.020448), suggesting their seasonal patterns are highly similar
 - Brazil shows substantial dissimilarity with other country, having larger distances overall, especially with Russia (63663.896821)
 
-## 8. Calculating Cosine Similarity
+### 8. Calculating Cosine Similarity
 We compute pairwise Cosine Similarity among the seasonal patterns of the time series
 
 
