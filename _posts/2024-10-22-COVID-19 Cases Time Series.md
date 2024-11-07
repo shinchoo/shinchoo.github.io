@@ -7,7 +7,7 @@ tag: [Time Series, Trend Curve, WMA, EMA, Euclidean, Cosine Similarity, DTW]
 toc: true
 ---
 
-## 2024 Analyzing Daily New COVID-19 Cases
+## 2020 Analyzing Daily New COVID-19 Cases
 
 ## Part 1: Global COVID Cases
 
