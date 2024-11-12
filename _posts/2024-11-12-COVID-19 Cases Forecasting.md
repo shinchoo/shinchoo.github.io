@@ -1,3 +1,12 @@
+---
+layout: single
+title:  "COVID-19 Forecasting"
+subtitle: "Time Series"
+categories: python
+tag: [Time Series, Rolling Mean, Rolling Standard Deviation, Log Return, Augmented Dicket-Fuller Test, Autocorrelations, ARMA on Log Returns, ARMA on First-order Differences, Vector Autoregression(VAR), Independent AR Models, Granger Causality]
+toc: true
+---
+
 ## 2020 Forecasting Daily New COVID-19 Cases
 
 ### Resources
@@ -429,7 +438,8 @@ del fig, ax, ser, wd_size, rolling_mean, rolling_std
 
 
     
-![png](output_5_0.png)
+![output_5_0](https://github.com/user-attachments/assets/522f34bc-233e-45da-800b-d4813fdb7d7c)
+
     
 
 
@@ -465,8 +475,10 @@ del fig, ax, log_ret, wd_size, rolling_mean, rolling_std
 ```
 
 
-    
-![png](output_8_0.png)
+
+![output_8_0](https://github.com/user-attachments/assets/f29ad6d3-9c77-42c7-a436-5a25846be0dc)
+
+
     
 
 
@@ -529,7 +541,8 @@ del fig, ax, ser, max_lag, plot_acf
 
 
     
-![png](output_13_0.png)
+![output_13_0](https://github.com/user-attachments/assets/7486c4be-802e-4f1e-8f88-9b9d72a49585)
+
     
 
 
@@ -550,7 +563,8 @@ del fig, ax, ser, max_lag, plot_pacf
 
 
     
-![png](output_14_0.png)
+![output_14_0](https://github.com/user-attachments/assets/862a5a9e-b962-4b43-b3ec-1a1edeb211e6)
+
     
 
 
@@ -602,7 +616,8 @@ plt.show()
 
 
     
-![png](output_17_0.png)
+![output_17_0](https://github.com/user-attachments/assets/866c5f52-10ae-4f01-8249-c2c3f55ad2f3)
+
     
 
 
@@ -649,7 +664,8 @@ del fig, ax, ser, p, q, num_forecasts, forecasts, actual
 
 
     
-![png](output_20_0.png)
+![output_20_0](https://github.com/user-attachments/assets/b6efce48-d6c8-45cf-b3cf-a988c2b16e56)
+
     
 
 
@@ -850,7 +866,8 @@ del fig, axes, stu_df, p, num_forecasts, forecasts, actual, rmse
 
 
     
-![png](output_25_0.png)
+![output_25_0](https://github.com/user-attachments/assets/e098bd52-3735-4d2e-9f5c-e0522919a306)
+
     
 
 
@@ -906,7 +923,8 @@ del fig, axes, stu_df, p, num_forecasts, forecasts, actual, rmse
 
 
     
-![png](output_28_0.png)
+![output_28_0](https://github.com/user-attachments/assets/50b2d293-c41d-448c-952e-0005ae696efb)
+
     
 
 
@@ -1027,3 +1045,7 @@ caul_mtrx.where(caul_mtrx.isna(), caul_mtrx <= 0.01)
 **Russia's Dependency of the U.S**: This emphasizes a uniquely strong lionk indicating specific international dynamics or policies during the epidemic
 
 **South Africa's Isolation**: Counter-intuitive as it acts independently signaling localized control or varies epidemic drivers
+
+
+![image](https://github.com/user-attachments/assets/3a59b4b4-a774-4cb2-bd1d-d8e0749f7a5f)
+
