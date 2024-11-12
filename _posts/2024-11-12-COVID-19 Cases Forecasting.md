@@ -388,7 +388,7 @@ load_data()
 
 
 
-### Part 1: Stationarity Tests
+## Part 1: Stationarity Tests
 Stationarity is a property of time series where statistical properties such as mean, variance, and autocorrelation are constant over time. Many statistical modeling methods assume stationarity as a predecessor for reliable forecasting
 
 ### 1a. Rolling Mean and Rolling Standard Deviation
@@ -483,7 +483,7 @@ del fig, ax, log_ret, wd_size, rolling_mean, rolling_std
     
 
 
-### Part 2: Augmented Dickey-Fuller Test
+## Part 2: Augmented Dickey-Fuller Test
 We perform the Augmented Dickey-Fuller (ADF) test to statistically determine stationarity. The null hypothesis of the ADF test is that the series is non-stationary. A p-value less than 0.05 indicates that we can reject the null hypothesis.
 
 
@@ -501,7 +501,7 @@ del adfuller, pval
 **Interpretation**
 - Since the p-value is significantly greater than 0.05, we fail to reject the null hypothesis. This means that our initial time series is non-stationary, supporting our earlier visual analysis
 
-### Part 3: Autocorrelations
+## Part 3: Autocorrelations
 Autocorrelation measures the correlation of a time series with its past values. The partial autocorrelation function (PACF) removes the influence of correlations at shorter lags to identify the extent of direct correlations
 
 
@@ -569,7 +569,7 @@ del fig, ax, ser, max_lag, plot_pacf
     
 
 
-### Part 4: ARMA on Log Returns
+## Part 4: ARMA on Log Returns
 ARMA (AutoRegressive Moving Average) models combine autoregression and moving averages to capture serial dependencies in a time series. By using log returns, we aim to achieve stationarity, which is critical for reliable model performance. We fit an ARMA model to the log returns and use this model to make forecasts
 
 
@@ -622,7 +622,7 @@ plt.show()
     
 
 
-### Part 5: ARMA on First-order Differences
+## Part 5: ARMA on First-order Differences
 First-order differencing helps in removing trends and seasonality from the series, making it more stationary. This step is crucial for improving the accuracy and robustness of the ARMA model. Hence, we fit an ARMA model on the first-order differences of the series and used this model to make forecasts
 
 
@@ -670,7 +670,7 @@ del fig, ax, ser, p, q, num_forecasts, forecasts, actual
     
 
 
-### Part 6: Multiple Time Series Forecasting
+## Part 6: Multiple Time Series Forecasting
 We extend our analysis to multiple time series by analyzing daily new COVID-19 cases from the top 5 countries with the highest cumulative cases using VAR and AR models 
 
 Multiple time series analysis allows us to understand the interaction between different time series. Accurate forecasting in this context can help estimate the spread of the virus in several countries, thereby aiding in global health resource allocation and policy-making
@@ -929,7 +929,7 @@ del fig, axes, stu_df, p, num_forecasts, forecasts, actual, rmse
     
 
 
-### Part 7. Granger Causality
+## Part 7. Granger Causality
 Granger Causality tests examine if one time series can predict another time series better than the latter's own past values. If including past values of another series improves the forecast, this suggests a causal influence
 
 
