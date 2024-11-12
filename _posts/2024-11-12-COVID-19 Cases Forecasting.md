@@ -7,6 +7,7 @@ tag: [Time Series, Rolling Mean, Rolling Standard Deviation, Log Return, Augment
 toc: true
 ---
 
+
 ## 2020 Forecasting Daily New COVID-19 Cases
 
 ### Resources
