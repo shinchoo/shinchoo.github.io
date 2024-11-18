@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "COVID-19 Forecasting"
+title:  "2020 COVID-19 Forecasting"
 subtitle: "Time Series"
 categories: python
 tag: [Time Series, Rolling Mean, Rolling Standard Deviation, Log Return, Augmented Dicket-Fuller Test, Autocorrelations, ARMA on Log Returns, ARMA on First-order Differences, Vector Autoregression(VAR), Independent AR Models, Granger Causality]
