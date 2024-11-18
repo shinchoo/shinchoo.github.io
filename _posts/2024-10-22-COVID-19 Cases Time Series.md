@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Daily COVID-19 Cases"
+title:  "2020 Daily COVID-19 Cases"
 subtitle: "Time Series"
 categories: python
 tag: [Time Series, Trend Curve, WMA, EMA, Euclidean, Cosine Similarity, DTW]
