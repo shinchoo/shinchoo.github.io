@@ -10,8 +10,6 @@ toc: true
 
 ## Movie Lens/IMDB/OMDB Movie Recommendation based on Plot
 
-::: {#aad356cd-d8df-4c39-a00b-90c48b2cfe59 .cell .code execution_count="1" scrolled="true"}
-``` python
 import os
 import warnings
 import numpy as np
