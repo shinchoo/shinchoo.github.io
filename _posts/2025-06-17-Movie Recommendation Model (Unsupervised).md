@@ -478,35 +478,39 @@ if __name__ == "__main__":
 
 ::: {.output .stream .stdout}
 
-    Cluster 0: Diverse and Intense Genre Mix
+    **Cluster 0: Diverse and Intense Genre Mix**
     Average Rating: 2.91
     Number of Reviews: 3,130,631
     Top Genres: Action, Comedy, Drama
     Representative Movies: The Devil’s Own, National Lampoon’s European Vacation, Paranormal Activity
     Most Frequent Keywords: murder, run, death, escape
     Characteristics: This cluster encapsulates films with a blend of various genres, often characterized by intense plot elements. These movies leverage diverse genre components to captivate audiences
-    Cluster 1: Impactful Dramas and Stories
+    
+    **Cluster 1: Impactful Dramas and Stories**
     Average Rating: 4.21
     Number of Reviews: 9,168,236
     Top Genres: Drama, Crime, Romance
     Representative Movies: The Shawshank Redemption, Forrest Gump, Pulp Fiction
     Most Frequent Keywords: life, love, young, family
     Characteristics: This cluster focuses on deeply moving dramas and storytelling, emphasizing emotional connections and life narratives, which often result in higher ratings.
-    Cluster 2: Classic Style Creations
+    
+    **Cluster 2: Classic Style Creations**
     Average Rating: 3.66
     Number of Reviews: 3,997,948
     Top Genres: Drama, Mystery, Romance
     Representative Movies: Dial M for Murder, Notorious, Rebecca
     Most Frequent Keywords: life, young, love, old
     Characteristics: Dominated by classic and traditional-style films, this cluster primarily involves mystery and romance, appealing to fans of traditional cinema.
-    Cluster 3: Family and Drama Comedies
+    
+    **Cluster 3: Family and Drama Comedies**
     Average Rating: 1.74
     Number of Reviews: 383,390
     Top Genres: Comedy, Drama, Family
     Representative Movies: The Muppet Christmas Carol, Police Academy 3, Secondhand Lions
     Most Frequent Keywords: life, young, family, love
     Characteristics: This cluster centers on family and comedy dramas, emphasizing warm atmospheres and family relationships, with a substantial focus on casualness and humor.
-    Cluster 4: Modern Action and Suspense
+    
+    **Cluster 4: Modern Action and Suspense**
     Average Rating: 3.34
     Number of Reviews: 14,240,554
     Top Genres: Action, Comedy, Thriller
