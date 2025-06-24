@@ -1,22 +1,14 @@
 ---
-jupyter:
-  kernelspec:
-    display_name: Python (ms2)
-    language: python
-    name: ms2
-  language_info:
-    codemirror_mode:
-      name: ipython
-      version: 3
-    file_extension: .py
-    mimetype: text/x-python
-    name: python
-    nbconvert_exporter: python
-    pygments_lexer: ipython3
-    version: 3.9.21
-  nbformat: 4
-  nbformat_minor: 5
+layout: single
+title:  "Movie Recommendation based on Plot (Unsupervised)"
+subtitle: "Recommendation"
+categories: [python, Machine Learning]
+tag: [Silhouette Scores by K, UMAP + KMeans Cluster, WordCloud]
+toc: true
 ---
+
+
+## 2020 Forecasting Daily New COVID-19 Cases
 
 ::: {#aad356cd-d8df-4c39-a00b-90c48b2cfe59 .cell .code execution_count="1" scrolled="true"}
 ``` python
@@ -483,3 +475,45 @@ if __name__ == "__main__":
 ``` python
 ```
 :::
+
+::: {.output .stream .stdout}
+
+    Cluster 0: Diverse and Intense Genre Mix
+    Average Rating: 2.91
+    Number of Reviews: 3,130,631
+    Top Genres: Action, Comedy, Drama
+    Representative Movies: The Devil’s Own, National Lampoon’s European Vacation, Paranormal Activity
+    Most Frequent Keywords: murder, run, death, escape
+    Characteristics: This cluster encapsulates films with a blend of various genres, often characterized by intense plot elements. These movies leverage diverse genre components to captivate audiences
+    Cluster 1: Impactful Dramas and Stories
+    Average Rating: 4.21
+    Number of Reviews: 9,168,236
+    Top Genres: Drama, Crime, Romance
+    Representative Movies: The Shawshank Redemption, Forrest Gump, Pulp Fiction
+    Most Frequent Keywords: life, love, young, family
+    Characteristics: This cluster focuses on deeply moving dramas and storytelling, emphasizing emotional connections and life narratives, which often result in higher ratings.
+    Cluster 2: Classic Style Creations
+    Average Rating: 3.66
+    Number of Reviews: 3,997,948
+    Top Genres: Drama, Mystery, Romance
+    Representative Movies: Dial M for Murder, Notorious, Rebecca
+    Most Frequent Keywords: life, young, love, old
+    Characteristics: Dominated by classic and traditional-style films, this cluster primarily involves mystery and romance, appealing to fans of traditional cinema.
+    Cluster 3: Family and Drama Comedies
+    Average Rating: 1.74
+    Number of Reviews: 383,390
+    Top Genres: Comedy, Drama, Family
+    Representative Movies: The Muppet Christmas Carol, Police Academy 3, Secondhand Lions
+    Most Frequent Keywords: life, young, family, love
+    Characteristics: This cluster centers on family and comedy dramas, emphasizing warm atmospheres and family relationships, with a substantial focus on casualness and humor.
+    Cluster 4: Modern Action and Suspense
+    Average Rating: 3.34
+    Number of Reviews: 14,240,554
+    Top Genres: Action, Comedy, Thriller
+    Representative Movies: The Game, Deadpool, The Good, the Bad and the Ugly
+    Most Frequent Keywords: life, new, work, young
+    Characteristics: Featuring modern and dynamic action and suspense films, this cluster includes popular movies that offer fresh experiences and continuous tension to their audiences.
+    Summary of Differences Between Clusters: Cluster 1 vs. Cluster 3: Cluster 1 focuses on storytelling-centric, impactful dramas achieving high ratings frequently, while Cluster 3 encompasses lighter content, including comedy and family dramas.
+:::
+
+![image](https://github.com/user-attachments/assets/34e4e022-0ba7-4ccf-af5f-f1194e18bbb1)
