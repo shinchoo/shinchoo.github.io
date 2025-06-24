@@ -9,7 +9,7 @@ toc: true
 
 
 ## Movie Lens/IMDB/OMDB Movie Recommendation based on Plot
-
+```python
 # supervised_pipeline.py
 
 # Import necessary libraries
@@ -202,6 +202,7 @@ def plot_calibration_curve_multi(y_test, probas_dict):
     plt.grid(True)
     plt.tight_layout()
     plt.show()
+```
 ```
 :::
 
