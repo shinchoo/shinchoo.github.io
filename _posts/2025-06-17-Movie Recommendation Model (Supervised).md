@@ -1,22 +1,14 @@
 ---
-jupyter:
-  kernelspec:
-    display_name: Python (ms2)
-    language: python
-    name: ms2
-  language_info:
-    codemirror_mode:
-      name: ipython
-      version: 3
-    file_extension: .py
-    mimetype: text/x-python
-    name: python
-    nbconvert_exporter: python
-    pygments_lexer: ipython3
-    version: 3.9.21
-  nbformat: 4
-  nbformat_minor: 5
+layout: single
+title:  "Movie Recommendation based on Plot (Supervised)"
+subtitle: "Recommendation"
+categories: [python, Machine Learning]
+tag: [RandomForest, XGBoost, Logistic Regression, KNN, Confusion Matrix, Ensemble, Roc Curve, Precision-Recall Curve, Calibration Curve]
+toc: true
 ---
+
+
+## Movie Lens/IMDB/OMDB Movie Recommendation based on Plot
 
 ::: {#8edcf6c4 .cell .code}
 ``` python
@@ -541,3 +533,26 @@ if __name__ == "__main__":
 ``` python
 ```
 :::
+
+::: {.output .stream .stdout}
+
+    **① False Negative in Emotion-Focused Dramas**
+    Characteristics: These movies, despite receiving positive reviews, were classified negatively
+    Analysis: The model seemed insufficient in capturing nuanced emotional content, particularly when relying solely on BERT embeddings
+    Cases: Husband Material (India, Hindi) and The Bonfire of the Vanities were misclassified in this manner
+    Improvements: Enhance rating distribution representation and adjust genre-based precision
+    
+    **② False Positive in Commercial Films**
+    Characteristics: Commercial films rated negatively were predicted positively
+    Analysis: Similarities in metadata like genre and runtime with positively-reviewed films led to misclassification
+    Cases: Jennifer’s Body (USA, Horror/Comedy) and The Bonfire of the Vanities were misclassified in this manner
+    Improvements: Enhance rating distribution representation and adjust genre-based precision
+    
+    **③ Underestimation of Non-English Language Films (False Negatives):**
+    Characteristics: Non-English or multinational films with positive feedback were classified negatively
+    Analysis: Insufficient training data for languages and countries, and cultural nuances were not captured
+    Cases: Ju-Rei: The Uncanny (Japan, Japanese) and Back from Eternity had misclassification
+    Improvements: Consider oversampling language/country categories and strengthening relevant metadata embeddings
+:::
+
+![image](https://github.com/user-attachments/assets/2bf135f5-86fc-4d88-b20c-9daf2760f6b6)
