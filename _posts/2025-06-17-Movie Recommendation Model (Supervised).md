@@ -10,8 +10,6 @@ toc: true
 
 ## Movie Lens/IMDB/OMDB Movie Recommendation based on Plot
 
-::: {#8edcf6c4 .cell .code}
-``` python
 # supervised_pipeline.py
 
 # Import necessary libraries
